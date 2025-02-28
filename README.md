@@ -16,14 +16,6 @@ I'm a passionate developer, I know multiple programming languages and technologi
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ER-28&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ER-28&layout=compact&theme=radical)
 
-## 🔥 Highlighted Projects
-
-### 🌐 Portfolio (Astro & React)
-A personal portfolio showcasing my work and skills, built with modern web technologies.
-
-### 🚀 Forge of Realms (Rust)
-A private project exploring systems programming and game development concepts.
-
 ### 💬 ReysinProject
 A github organisation that group my open source projet built to provide library to improve the web developer developer experience. 
 

@@ -1,4 +1,4 @@
-# Hi there! I'm ER-28 👋
+# I'm ER-28 👋
 
 ## 🌟 About Me
 I'm a passionate developer, I know multiple programming languages and technologies. My journey is driven by curiosity, continuous learning, and building innovative solutions.
@@ -15,9 +15,6 @@ I'm a passionate developer, I know multiple programming languages and technologi
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ER-28&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ER-28&layout=compact&theme=radical)
-
-### 💬 ReysinProject
-A github organisation that group my open source projet built to provide library to improve the web developer developer experience. 
 
 ## 🌱 Currently Learning
 - Advanced Rust programming
